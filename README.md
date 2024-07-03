@@ -1,2 +1,2 @@
 # learnJS
-JS Fundamentals
+Praciting my JS
